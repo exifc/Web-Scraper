@@ -1,5 +1,5 @@
-# Web Scraper
-Web Scraper tool with several available ports to scan.
+# Web IP Scraper
+Web IP Scraper tool with several available ports to scan.
 
 
 <h2>Usage:</h2>
