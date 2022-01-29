@@ -12,3 +12,5 @@ telnet (23)<br>
 ftp (21)<br>
 ssh (22)<br>
 minecraft (25565)<br>
+<br>
+<h2>Any bug reports would be appreciated.</h2>
